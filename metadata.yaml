@@ -1,0 +1,35 @@
+_repo: La-farce-de-la-Sorbonne_73039
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Benjamin, René
+    alias: Benjamin, Rene
+    birthdate: 1885
+    deathdate: 1948
+    gutenberg_agent_id: '56924'
+    url: http://www.gutenberg.org/2009/agents/56924
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ren%C3%A9_Benjamin
+    - https://fr.wikipedia.org/wiki/Ren%C3%A9_Benjamin
+description: ''
+gutenberg_issued: '2024-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73039'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k3348486s
+pgterms:marc905: 20240130121019benjamin
+pgterms:marc906: '1921'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bArthème Fayard, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Université de Paris'
+- !lcc 'LF'
+- GITenberg
+title: La farce de la Sorbonne
+url: http://www.gutenberg.org/ebooks/73039
